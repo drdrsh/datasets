@@ -1183,12 +1183,6 @@ graph [
 
 	edge [
 		type "quran_chain.direct_teacher"
-		source 20
-		target 25
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
 		source 25
 		target 21
 	]
@@ -1233,12 +1227,6 @@ graph [
 		type "quran_chain.direct_teacher"
 		source 56
 		target 55
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 55
-		target 29
 	]
 
 	edge [
@@ -1578,12 +1566,6 @@ graph [
 	edge [
 		type "quran_chain.direct_teacher"
 		source 45
-		target 20
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 45
 		target 73
 	]
 
@@ -1703,12 +1685,6 @@ graph [
 		target 20
 	]
 
-	edge [
-		type "quran_chain.direct_teacher"
-
-		source 73
-		target 20
-	]
 
 	edge [
 		type "quran_chain.direct_teacher"
@@ -1796,12 +1772,6 @@ graph [
 
 	edge [
 		type "quran_chain.direct_teacher"
-		source 38
-		target 40
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
 		source 0
 		target 38
 	]
@@ -1852,12 +1822,6 @@ graph [
 	edge [
 		type "quran_chain.direct_teacher"
 		source 50
-		target 42
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 45
 		target 42
 	]
 
@@ -1930,12 +1894,6 @@ graph [
 	edge [
 		type "quran_chain.direct_teacher"
 		source 2
-		target 22
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 25
 		target 22
 	]
 
@@ -2032,12 +1990,6 @@ graph [
     edge [
         type "quran_chain.direct_teacher"
         source 80
-        target 26
-    ]
-
-    edge [
-        type "quran_chain.direct_teacher"
-        source 81
         target 26
     ]
 
