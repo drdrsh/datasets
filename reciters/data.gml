@@ -42,7 +42,7 @@ graph [
 		subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "أبو الحارث الليث بن خالد البغدادي"
-		name "الليث"
+		name "الليث بن خالد البغدادي"
 		bio ""
 		birth_year ""
 		death_year "240"
@@ -185,7 +185,7 @@ graph [
         subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "أبو الوليد هشام بن عمار بن نصير"
-		name "هشام"
+		name "هشام بن عمار"
 		bio ""
 		birth_year "153"
 		death_year "245"
@@ -197,7 +197,7 @@ graph [
         subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "عبد الله بن أحمد بن بشر بن ذكوان"
-		name "ذكوان"
+		name "ابن ذكوان"
 		bio ""
 		birth_year "173"
 		death_year "242"
@@ -233,7 +233,7 @@ graph [
         subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "أبو بكر شعبة بن عياش بن سالم"
-		name "شعبة"
+		name "شعبة بن عياش"
 		bio ""
 		birth_year "95"
 		death_year "193"
@@ -257,7 +257,7 @@ graph [
         subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "أبو عيسى خلاد بن خالد"
-		name "خلاد"
+		name "خلاد بن خالد"
 		bio ""
 		birth_year "119"
 		death_year "220"
@@ -281,7 +281,7 @@ graph [
         subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "إدريس بن عبد الكريم البغدادي الحداد"
-		name "إدريس"
+		name "إدريس بن عبد الكريم"
 		bio ""
 		birth_year ""
 		death_year "292"
@@ -293,7 +293,7 @@ graph [
         subtypes "quran_chain.rawy"
 		ISNI ""
 		full_name "إسحاق بن ابراهيم بن عثمان المروزي"
-		name "إسحاق"
+		name "إسحاق بن ابراهيم"
 		bio ""
 		birth_year ""
 		death_year "286"
@@ -399,7 +399,7 @@ graph [
 		type "person"
 		ISNI ""
 		full_name "المغيرة بن أبي شهاب المخزومي"
-		name "أبو شهاب المخزومي"
+		name "المغيرة بن أبي شهاب المخزومي"
 		bio ""
 		birth_year "1"
 		death_year "91"
@@ -559,7 +559,7 @@ graph [
 		type "person"
 		ISNI ""
 		full_name "أبو شبل علقمة بن قيس بن عبد الله النخعي"
-		name "علقمة النخعي"
+		name "علقمة بن قيس النخعي"
 		bio ""
 		birth_year ""
 		death_year "62"
@@ -1078,6 +1078,30 @@ graph [
         death_year "44"
     ]
 
+    node [
+        id 95
+        type "person"
+        ISNI ""
+        full_name "أبو حرب بن ظالم بن عمرو بن سفيان الدؤلي الكناني"
+        name "أبو حرب بن أبي الأسود الدؤلي"
+        bio ""
+        birth_year ""
+        death_year ""
+    ]
+
+	edge [
+		type "quran_chain.direct_teacher"
+		source 70
+		target 95
+	]
+
+	edge [
+		type "quran_chain.direct_teacher"
+		source 95
+		target 71
+	]
+
+
 	edge [
 		type "quran_chain.direct_teacher"
 		source 2
@@ -1183,12 +1207,6 @@ graph [
 
 	edge [
 		type "quran_chain.direct_teacher"
-		source 20
-		target 25
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
 		source 25
 		target 21
 	]
@@ -1233,12 +1251,6 @@ graph [
 		type "quran_chain.direct_teacher"
 		source 56
 		target 55
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 55
-		target 29
 	]
 
 	edge [
@@ -1578,12 +1590,6 @@ graph [
 	edge [
 		type "quran_chain.direct_teacher"
 		source 45
-		target 20
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 45
 		target 73
 	]
 
@@ -1691,24 +1697,16 @@ graph [
 
 	edge [
 		type "quran_chain.direct_teacher"
-
 		source 71
 		target 20
 	]
 
 	edge [
 		type "quran_chain.direct_teacher"
-
 		source 72
 		target 20
 	]
 
-	edge [
-		type "quran_chain.direct_teacher"
-
-		source 73
-		target 20
-	]
 
 	edge [
 		type "quran_chain.direct_teacher"
@@ -1796,12 +1794,6 @@ graph [
 
 	edge [
 		type "quran_chain.direct_teacher"
-		source 38
-		target 40
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
 		source 0
 		target 38
 	]
@@ -1852,12 +1844,6 @@ graph [
 	edge [
 		type "quran_chain.direct_teacher"
 		source 50
-		target 42
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 45
 		target 42
 	]
 
@@ -1930,12 +1916,6 @@ graph [
 	edge [
 		type "quran_chain.direct_teacher"
 		source 2
-		target 22
-	]
-
-	edge [
-		type "quran_chain.direct_teacher"
-		source 25
 		target 22
 	]
 
@@ -2032,12 +2012,6 @@ graph [
     edge [
         type "quran_chain.direct_teacher"
         source 80
-        target 26
-    ]
-
-    edge [
-        type "quran_chain.direct_teacher"
-        source 81
         target 26
     ]
 
@@ -2226,5 +2200,19 @@ graph [
         source 1
         target 69
     ]
+
+    edge [
+        type "quran_chain.direct_teacher"
+        source 67
+        target 71
+    ]
+
+	edge [
+		type "quran_chain.direct_teacher"
+		source 70
+		target 71
+	]
+
+
 
 ]
