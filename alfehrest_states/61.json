@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 1067,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1175,
+      "month": 1,
+      "day": null
+    },
+    "ar": {
+      "name": "آل الدغار",
+      "description": "حكموا بمدينة شبام في حضر موت",
+      "link": "http://www.hukam.net/family.php?fam=429",
+      "ref": "http://www.hukam.net/family.php?fam=429"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1067,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1175,
+          "month": 1,
+          "day": null
+        },
+        "ar": {
+          "description": "قيام الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                46.9995117188,
+                16.9307050988
+              ],
+              [
+                49.1088867188,
+                14.535732627
+              ],
+              [
+                52.1850585938,
+                15.6230368315
+              ],
+              [
+                52.3828125,
+                16.3412256192
+              ],
+              [
+                53.0859375,
+                16.6572436454
+              ],
+              [
+                52.0202636719,
+                18.9894147152
+              ],
+              [
+                46.9995117188,
+                16.9307050988
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

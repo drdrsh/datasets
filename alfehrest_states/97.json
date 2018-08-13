@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 1236,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1537,
+      "month": null,
+      "day": null
+    },
+    "ar": {
+      "name": "آل مهربان",
+      "description": "آل مهربان سلالة حكمت منطقة سستان منذ عام 1236 م حتى منتصف القرن السادس عشر.",
+      "link": "http://en.wikipedia.org/wiki/Mihrabanids",
+      "ref": "http://en.wikipedia.org/wiki/Mihrabanids"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1236,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1289,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "قيام الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                59.2283936217,
+                32.8242111016
+              ],
+              [
+                61.1889036745,
+                28.1979265572
+              ],
+              [
+                67.0226439089,
+                30.2116082238
+              ],
+              [
+                62.1068115905,
+                32.4541559394
+              ],
+              [
+                59.2283936217,
+                32.8242111016
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1289,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1537,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "ضم قوهستان"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                59.2283936217,
+                32.8242111016
+              ],
+              [
+                61.1889036745,
+                28.1979265572
+              ],
+              [
+                67.0226439089,
+                30.2116082238
+              ],
+              [
+                64.1112671234,
+                31.5223614704
+              ],
+              [
+                62.2166748718,
+                34.3434360685
+              ],
+              [
+                60.656616278,
+                35.2456190942
+              ],
+              [
+                59.2283936217,
+                32.8242111016
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

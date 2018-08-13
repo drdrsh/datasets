@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 1282,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1357,
+      "month": null,
+      "day": null
+    },
+    "ar": {
+      "name": "آل بلبن",
+      "description": "من سلالات المماليك التي حكمت شبه القارة الهندية.",
+      "link": "http://www.hukam.net/country.php?id=83",
+      "ref": "http://www.hukam.net/family.php?fam=872"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1282,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1357,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "قيام الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                91.5161132812,
+                22.5937260639
+              ],
+              [
+                92.3510742188,
+                20.879342972
+              ],
+              [
+                97.0532226562,
+                27.8002099374
+              ],
+              [
+                88.2531738281,
+                26.8044607665
+              ],
+              [
+                89.0551757812,
+                21.7390912177
+              ],
+              [
+                91.5161132812,
+                22.5937260639
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

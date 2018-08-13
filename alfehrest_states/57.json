@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 1050,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1159,
+      "month": null,
+      "day": null
+    },
+    "ar": {
+      "name": "بنو الورد",
+      "description": "بعد ان سمح المستنصر الفاطمي لقبائل بني هلال بالهجرة الى افريقية، دارت معارك كثيرة بين بني هلال وبين المعز بن باديس. أدى ذلك لقيام عدة دويلات في افريقية منها بني الورد وبني خراسان وبني جامع وبني الرند...",
+      "link": "http://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%88_%D8%A7%D9%84%D9%88%D8%B1%D8%AF",
+      "ref": "http://www.hukam.net/family.php?fam=433"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1050,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1159,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "قيام الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.71215820312,
+                36.1822249804
+              ],
+              [
+                10.2392578125,
+                37.1690715771
+              ],
+              [
+                9.76684570312,
+                37.37888785
+              ],
+              [
+                8.6572265625,
+                36.9498917868
+              ],
+              [
+                8.71215820312,
+                36.1822249804
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

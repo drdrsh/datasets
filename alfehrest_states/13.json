@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 802,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 910,
+      "month": 1,
+      "day": 28
+    },
+    "ar": {
+      "name": "بنو سليمان (تنس)",
+      "description": "حكموا في تنس.",
+      "link": "http://www.hukam.net/family.php?fam=299",
+      "ref": "http://www.hukam.net/family.php?fam=299\nhttp://www.hukam.net/essay/maps/idris-003.png"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 802,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 910,
+          "month": 1,
+          "day": 28
+        },
+        "ar": {
+          "description": ""
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -0.032959359375,
+                35.8356287647
+              ],
+              [
+                -0.780029671875,
+                35.7821710794
+              ],
+              [
+                0.1318355625,
+                35.3980063251
+              ],
+              [
+                1.80999718359,
+                35.6059522307
+              ],
+              [
+                2.21374474219,
+                36.2575632001
+              ],
+              [
+                1.90063439062,
+                36.5670124288
+              ],
+              [
+                1.30737267187,
+                36.514051572
+              ],
+              [
+                0.620727164062,
+                36.315125521
+              ],
+              [
+                -0.032959359375,
+                35.8356287647
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

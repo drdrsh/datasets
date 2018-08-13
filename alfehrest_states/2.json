@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 710,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1019,
+      "month": null,
+      "day": null
+    },
+    "ar": {
+      "name": "بنو صالح",
+      "description": "بنو صالح سلالة حكمت امارة نكّور، تواجدت شمال المغرب في القرن السابع و الثامن ميلادي.",
+      "link": "http://en.wikipedia.org/wiki/Kingdom_of_Nekor",
+      "ref": "http://en.wikipedia.org/wiki/Kingdom_of_Nekor\nhttp://www.hukam.net/family.php?fam=426"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 710,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1019,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "نشأة الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -2.69165076563,
+                35.1109221889
+              ],
+              [
+                -3.05419959375,
+                35.3352935813
+              ],
+              [
+                -3.46069373438,
+                35.2007451805
+              ],
+              [
+                -3.72436560938,
+                35.2994358589
+              ],
+              [
+                -4.4384769375,
+                35.1558460813
+              ],
+              [
+                -3.9990238125,
+                34.2254293986
+              ],
+              [
+                -2.17529334375,
+                34.2799147816
+              ],
+              [
+                -2.17529334375,
+                35.0839559586
+              ],
+              [
+                -2.69165076563,
+                35.1109221889
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

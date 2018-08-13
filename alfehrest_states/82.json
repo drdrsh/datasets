@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 1158,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1174,
+      "month": null,
+      "day": null
+    },
+    "ar": {
+      "name": "بنو مهدي",
+      "description": "قبيلة يمنية حكمت بزبيد من 1158 الى 1174",
+      "link": "http://www.hukam.net/family.php?fam=207",
+      "ref": "http://www.hukam.net/family.php?fam=207"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1158,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1174,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "قيام الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                43.2586669922,
+                13.3468650146
+              ],
+              [
+                43.9947509766,
+                13.5712415631
+              ],
+              [
+                44.1925048828,
+                15.3159759343
+              ],
+              [
+                42.9510498047,
+                14.8067493721
+              ],
+              [
+                43.2586669922,
+                13.3468650146
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

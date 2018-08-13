@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 1057,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 1157,
+      "month": null,
+      "day": null
+    },
+    "ar": {
+      "name": "بنو خراسان",
+      "description": "من قبائل بني هلال التي استوطنت تونس بأمر من الفاطميين.",
+      "link": "http://www.hukam.net/family.php?fam=322",
+      "ref": "http://www.hukam.net/family.php?fam=322"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 1057,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 1157,
+          "month": null,
+          "day": null
+        },
+        "ar": {
+          "description": "قيام الدولة"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.3875732422,
+                36.7388841244
+              ],
+              [
+                10.1458740234,
+                37.2128315145
+              ],
+              [
+                8.71215820312,
+                36.1822249804
+              ],
+              [
+                10.6237792969,
+                35.8356283889
+              ],
+              [
+                10.4974365234,
+                36.2752788318
+              ],
+              [
+                10.810546875,
+                36.4875571694
+              ],
+              [
+                11.1236572266,
+                36.8664375518
+              ],
+              [
+                11.0467529297,
+                37.0727104813
+              ],
+              [
+                10.3875732422,
+                36.7388841244
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

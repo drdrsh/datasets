@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "data": {
+    "start": {
+      "year": 802,
+      "month": null,
+      "day": null
+    },
+    "end": {
+      "year": 910,
+      "month": 1,
+      "day": 28
+    },
+    "ar": {
+      "name": "بنو سليمان (تلمسان)",
+      "description": "حكموا في تلمسان وفي التنس.",
+      "link": "http://www.hukam.net/family.php?fam=297",
+      "ref": "http://www.hukam.net/family.php?fam=297\nhttp://www.hukam.net/essay/maps/idris-003.png"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": {
+          "year": 802,
+          "month": null,
+          "day": null
+        },
+        "end": {
+          "year": 910,
+          "month": 1,
+          "day": 28
+        },
+        "ar": {
+          "description": ""
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -1.57104529688,
+                35.2411331603
+              ],
+              [
+                -2.21923865625,
+                35.0749652334
+              ],
+              [
+                -2.16430701563,
+                34.3116816241
+              ],
+              [
+                -0.823974984375,
+                34.5065570037
+              ],
+              [
+                0.142821890625,
+                35.3935284593
+              ],
+              [
+                -0.631714242188,
+                35.6974561838
+              ],
+              [
+                -0.8349613125,
+                35.7465126362
+              ],
+              [
+                -1.1865238125,
+                35.5679808351
+              ],
+              [
+                -1.28540076563,
+                35.3576965826
+              ],
+              [
+                -1.57104529688,
+                35.2411331603
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
